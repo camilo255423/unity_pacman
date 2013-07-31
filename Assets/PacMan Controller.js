@@ -3,7 +3,7 @@ var controller:CharacterController;
 var velocidad:float;
 function Start () {
 controller = this.GetComponent("CharacterController");
-velocidad = 0.2;
+
 }
 
 function Update () {
